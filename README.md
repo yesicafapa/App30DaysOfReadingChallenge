@@ -15,7 +15,7 @@ Proyek ini merupakan aplikasi Android yang saya buat menggunakan **Kotlin** dan 
 Aplikasi ini memiliki fitur utama sebagai berikut:
 
 * **30 Hari Tantangan:** Menyajikan daftar 30 sinopsis buku, di mana setiap kartu mewakili satu hari tantangan.
-* **Desain Ungu Lavender:** Menggunakan skema warna yang elegan, serta kompatibel dengan Mode Gelap (Dark Mode).
+* **Desain:** Menggunakan skema warna yang elegan, serta kompatibel dengan Mode Gelap (Dark Mode).
 * **Expandable Card:** Deskripsi (Sinopsis) buku tersembunyi dan hanya akan muncul saat kartu di-klik.
 * **Detail Penulis:** Setiap sinopsis diawali dengan informasi penulis.
 * **Layout Proporsional:** *Cover* buku ditampilkan proporsional (vertikal) di tengah kartu.
