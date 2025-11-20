@@ -6,7 +6,7 @@ Proyek ini merupakan aplikasi Android yang saya buat menggunakan **Kotlin** dan 
 
 ## 📽️ Demo Aplikasi
 
-![Demo Aplikasi 30 Days Reading Challenge](hasil.webm)
+![Demo Aplikasi 30 Days Reading Challenge](hasil.gif)
 
 ---
 
@@ -22,7 +22,17 @@ Aplikasi ini memiliki fitur utama sebagai berikut:
 
 ---
 
-## ⚠️ Disclaimer (Penyangkalan) & Hak Cipta
+## 🛠️ Teknologi yang Saya Gunakan
+
+* **Android Studio**
+* **Kotlin**
+* **Jetpack Compose** (Untuk UI deklaratif)
+* **Material 3** (Panduan desain terbaru)
+* **Gradle** (Sebagai *build system*)
+
+---
+
+## ⚠️ Disclaimer
 
 Aplikasi ini dikembangkan semata-mata sebagai **proyek pembelajaran dan apresiasi** terhadap karya sastra Indonesia.
 
