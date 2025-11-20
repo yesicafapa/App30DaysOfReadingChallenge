@@ -6,9 +6,7 @@ Proyek ini merupakan aplikasi Android yang saya buat menggunakan **Kotlin** dan 
 
 ## 📽️ Demo Aplikasi
 
-Video demo aplikasi dapat dilihat pada tautan berikut:
-
-👉 **[Klik di sini untuk melihat video demo](./hasil.mp4)**
+![Demo Aplikasi 30 Days Reading Challenge](hasil.webm)
 
 ---
 
@@ -21,31 +19,6 @@ Aplikasi ini memiliki fitur utama sebagai berikut:
 * **Expandable Card:** Deskripsi (Sinopsis) buku tersembunyi dan hanya akan muncul saat kartu di-klik.
 * **Detail Penulis:** Setiap sinopsis diawali dengan informasi penulis.
 * **Layout Proporsional:** *Cover* buku ditampilkan proporsional (vertikal) di tengah kartu.
-
----
-
-## 🛠️ Teknologi yang Saya Gunakan
-
-* **Android Studio**
-* **Kotlin**
-* **Jetpack Compose** (Untuk UI deklaratif)
-* **Material 3** (Panduan desain terbaru)
-* **Gradle** (Sebagai *build system*)
-
----
-
-## 📦 Cara Menjalankan Proyek
-
-1.  **Clone repository** ini ke komputer lokal Anda:
-    ```bash
-    git clone [https://github.com/USERNAME/REPO-NAME.git](https://github.com/yesicafapa/App30DaysOfReadingChallengeE.git)
-    ```
-2.  Buka **Android Studio**.
-3.  Pilih **File > Open**, lalu arahkan ke folder *project* yang baru Anda *clone*.
-
-4.  Tunggu hingga **Gradle Sync** selesai mengunduh semua *dependencies*.
-
-5.  Jalankan aplikasi pada Emulator atau perangkat fisik dengan menekan tombol **Run (ikon Play) berwarna hijau**.
 
 ---
 
